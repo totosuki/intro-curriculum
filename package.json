@@ -4,7 +4,7 @@
   "description": "17の倍数であるかを判定する関数isMultipleOfSeventeenを提供する",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js | less"
   },
   "author": "",
   "license": "ISC"
